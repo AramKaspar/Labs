@@ -1,0 +1,13 @@
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\bin\Debug\AnthonyCocktail.exe.config
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\bin\Debug\DB_Main.mdf
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\bin\Debug\DB_Main_log.ldf
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\bin\Debug\AnthonyCocktail.exe
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\bin\Debug\AnthonyCocktail.pdb
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\TomaCocktail.BarmanForm.resources
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\TomaCocktail.EditRecipeForm.resources
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\TomaCocktail.MainForm.resources
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\TomaCocktail.Properties.Resources.resources
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\TomaCocktail.WarehousemanForm.resources
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\Aram.csproj.GenerateResource.Cache
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\AnthonyCocktail.exe
+C:\Users\Тёма\Downloads\Новая папка\Коктейли\Aram\obj\Debug\AnthonyCocktail.pdb
